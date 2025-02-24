@@ -1,5 +1,7 @@
-let edad = 25; 
+//Ejercicio 3: Clasificador de Edades
 
+
+let edad = 25; 
 if (edad <= 0) {
     console.log("esta edad no es valida");
 } else if (edad <= 12) {
